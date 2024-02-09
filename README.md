@@ -9,8 +9,8 @@
 
 
 <p align="center">
-        <a href="https://youtube.com/nopro200"><img src="https://img.shields.io/youtube/channel/views/UCGvcLOmPKMv4JstBZezFkHA?label=YouTube&logo=YouTube&style=flat-square" alt="Splayfer" width="100" height="20"/></a>
-    <a href="https://discord.nopro200.ml/"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="NoPro200YT#0223" width="85" height="20"/></a>
+        <a href="https://youtube.com/nopro200"><img src="https://img.shields.io/youtube/channel/views/UCGvcLOmPKMv4JstBZezFkHA?label=YouTube&logo=YouTube&style=flat-square" alt="NoPro200" width="100" height="20"/></a>
+    <a href="https://dc.nopro200.de/"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="nopro200" width="85" height="20"/></a>
     <a href="https://github.com/nopro200?tab=followers"><img src="https://img.shields.io/github/followers/nopro200?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🔎〣 Über Mich
 
-- 🌀│ Mein Discord Server: **[NoPro200 Community](https://discord.nopro200.ml/)**
+- 🌀│ Mein Discord Server: **[NoPro200 Community](https://dc.nopro200.de/)**
 
 - 🌱│ Im Moment Programmiere ich in **JDA (Java Discord API)**
 
