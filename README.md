@@ -28,11 +28,26 @@
 
 <br/>
 
-## Schau gerne auf meinen Kanälen vorbei:
+## 📎〣 Schau gerne auf meinen Kanälen vorbei:
 <p align="left">
 
+<a href = "https://nopro200.de"><img src="https://img.icons8.com/fluent/48/000000/link.png"/></a>
 <a href = "https://youtube.com/nopro200"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://twitch.tv/nopro200_yt"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
 <a href = "https://www.instagram.com/nopro200yt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.reddit.com/user/NoPro200/"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>
 <a href = "https://linktr.ee/NP200"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
+
+<br>
+
+## 🧑‍💻〣 Meine Programmiersprachen
+![](https://skillicons.dev/icons?i=java,python,html,css,bash)
+
+</br>
+
+<br>
+
+## 🧑‍💻〣 Meine Tools etc.
+![](https://skillicons.dev/icons?i=linux,mint,notion,blender,docker,ubuntu,windows,arduino,atom,cloudflare,git,gmail,github,idea,powershell,postman,stackoverflow,unity,visualstudio,vscode)
+
+</br>
